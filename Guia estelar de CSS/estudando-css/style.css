@@ -1,0 +1,10 @@
+/*@import 'aqui vai um url, de uma fonte por exemplo'*/
+
+h1 {
+    color: red;
+    font-family: 'Ranchers', cursive;
+}
+
+strong {
+    color: green;
+}
