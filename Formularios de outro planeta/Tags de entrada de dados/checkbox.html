@@ -1,0 +1,48 @@
+<!--
+
+    <input type="checkbox">
+
+    - Caixas que podem ser marcadas
+    - Selecionar um valor para ser enviado
+    - Se não selecionado, não será enviado nenhum dado
+
+    ATRIBUTOS
+    - globais
+    - value
+        * valor que aquele campo contém
+        * se não estiver presente, o padrão é 'on'
+    - checked (boolean)
+        * para deixar o campo marcado por padrão
+
+-->
+
+<!--codigo que testei-->
+<!-- 
+<label for="subscribe">Receber notificações </label>
+<input type="checkbox" name="subscibe" id="subscribe"> -->
+
+
+
+
+
+<!--
+    MARCAR MÚLTIPLOS VALORES?
+
+    - Usaremos o atributo 'name' com o mesmo nome para os diversos campos
+-->
+
+<!-- caso eu marque os dois, no backend seria + ou -: interest = coding, music -->
+<fieldset>
+    <legend> Choose your interests</legend>
+    <div>
+        <input type="checkbox" name="interest" id="coding"
+        value="coding" checked>
+        <label for="coding">Coding</label>
+    </div>
+    <div>
+        <input type="checkbox" name="interest" id="music"
+        value="music">
+        <label for="music">Music</label>
+    </div>
+</fieldset>
+
