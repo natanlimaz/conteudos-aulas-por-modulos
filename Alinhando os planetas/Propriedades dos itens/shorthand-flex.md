@@ -1,0 +1,60 @@
+# flex
+
+- shorthand
+- flex-grow  flex-shrink  flex-basis
+- podem ter 1, 2 ou 3 valores
+
+## EXEMPLO DE USO ABAIXO:
+
+``` HTML
+<div class="page">
+  <aside>Aside</aside>
+  <main>
+      Main
+      <section>Content 1</section>
+      <section>Content 2</section>
+      <section>Content 3</section>
+  </main>
+</div>
+```
+
+``` CSS
+* {
+  height: 100vh;
+  margin: 0;
+}
+
+.page {
+    border: 2px solid;
+    min: height: 100vh;
+  
+    display: flex;
+}
+
+aside {
+  background: lightgreen;
+  flex: 1;
+}
+
+main {
+  background: lightblue;
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+main section:nth-child(1){
+  background: lightgoldenrodyellow;
+  flex: 0 0 50px;
+}
+
+main section:nth-child(2){
+  background: lightsalmon;
+  flex: 2;
+}
+
+main section:nth-child(3){
+  background: lightpink;
+  flex: 1;
+}
+```
