@@ -1,0 +1,17 @@
+COMANDOS NAS TABELAS
+
+CREATE TABLE - criar as tabelas do banco de dados
+
+ALTER TABLE - aterar tabela
+
+
+RENAME TO - renomear para
+
+forma de uso:
+ALTER TABLE nome_da_tabela RENAME TO novo_nome_da_tabela
+
+alterar nome do campo
+ALTER TABLE nome_da_tabela RENAME COLUMN nome_do_campo TO novo_nome_do_campo
+
+DROP TABLE - serve para excluir uma tabela
+ex: DROP TABLE nome_da_tabela

@@ -1,0 +1,5 @@
+SELECT - Buscar Informações
+* quer dizer todas as informações
+FROM - de onde
+WHERE - onde
+like 'j%'- tenha, precisa ser tal coisa(sempre que for texto, colocar as informações que a gete está buscando entre aspas, o % fala que tudo q vem depois da primeira letra não importa)

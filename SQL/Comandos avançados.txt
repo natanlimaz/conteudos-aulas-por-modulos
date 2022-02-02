@@ -1,0 +1,9 @@
+COMANDOS AVANÇADOS
+
+ORDER BY - ordena por campos(crescente, decrescente, ordem alfabetica ou nao)
+DESC - Decrescente(muda a ordenação)
+LIMIT - Colocar um limite de resultados 
+OFFSET - Dizer ao banco de dados quantos registros ele vai ignorar(ignora os primeiros resultados que ele encontrar , a gente pode definir)
+COUNT(campo que ele ira contar) - Saber quantos funcionários tem registrado
+GROUP BY - vai agrupar dados semelhantes em um campo
+HAVING - Serve para fazer uma comparação, é parecido com o WHERE so que com o HAVING o que a gente compara são agrupamentos

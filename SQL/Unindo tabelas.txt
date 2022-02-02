@@ -1,0 +1,8 @@
+UNINDO TABELAS
+
+JOIN - importa a tabela a outra(conecta uma tabela  aoutra-faz a conexao)-(trazer o conteudo de uma tabela que possui um relacionamento )
+ON - Relacionamentos entre as tabelas
+
+as - Alias - Criar nomes apenas para o SELECT()
+
+LEFT OUTER JOIN - todo conteudo da tabela especificada apos o from apareça mesmo que não tenha um relacionamento igual ao ON

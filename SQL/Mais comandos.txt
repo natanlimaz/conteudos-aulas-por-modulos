@@ -1,0 +1,10 @@
+MAIS COMANDOS
+
+INSERT INTO - Comando para fazer a inserção de dados
+VALUES - Digitar os valores que deseja inserir
+-----------------------------------------------------------------------------
+UPDATE - alterar algum dado inserido
+SET - para passar as novas informações dos campos
+-----------------------------------------------------------------------------
+DELETE - Apaga uma informação do banco de dados
+SEMPRE FAZER DELETE COM WHERE

@@ -1,0 +1,7 @@
+OPERADORES MATEMÁTICOS
+
+(+) - adição
+(-) - subtração
+(*) - multiplicação
+(/) - divisão
+(%) - módulo

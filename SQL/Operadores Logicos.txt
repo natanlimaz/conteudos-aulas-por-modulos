@@ -1,0 +1,10 @@
+OPERADORES LÓGICOS
+
+AND - Juntar duas condições
+OR - ou
+BETWEEN - numeros entre um intervalo
+NOT BETWEEN - Ignora todos no intervalo passado
+IN (n1, n1, n3)- numeros especificos
+NOT IN - faz o contário do in
+IS NULL - seleciona onde a informação contida no campo seja NULL
+IS NOT NULL - fz o inverso do is null e ignora quem tem null e tras as outras informações

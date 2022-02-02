@@ -1,0 +1,10 @@
+OPERADORES RELACIONAIS
+
+= - igual (Só funcionam em campos que são NUMBER)
+like - igualdade para campos de texto
+> - maior que
+< - menor que
+>= - maior ou igual
+<= - menor ou igual
+<> - Não igual a
+!=  - Diferente de
