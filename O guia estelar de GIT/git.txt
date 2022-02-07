@@ -1,0 +1,3 @@
+O curso foi bem prático com o uso do terminal do git bash,
+mostrando como funciona um pouco do controle de versionamento
+usando o git
