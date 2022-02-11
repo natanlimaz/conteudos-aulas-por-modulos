@@ -1,0 +1,2 @@
+O curso foi bem prático sem muita teoria, e teve apenas a anotação sobre o
+que era o HTTP, o resto foi mostrado bem na prática
